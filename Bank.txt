@@ -1,0 +1,6 @@
+Account_No	Customer_Name	Account_Type	Balance
+1001	Rahul	Saving	25000
+1002	Shahid	Current	18000
+1003	Prince	Saving	35000
+1004	Yash	Current	22000
+1005	Shivam	Saving	28000
